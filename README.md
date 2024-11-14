@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Micheal G. Zeleke</h1>
 <h3 align="center">Eager to learn and grow, I'm a full-stack developer from Ethiopia, passionate about building innovative web applications and solving complex problems.</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/QC7UQbxq89MnL9r6AN/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=young-anakin&label=Profile%20views&color=0e75b6&style=flat" alt="young-anakin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=young-anakin" alt="young-anakin" /></a> </p>
