@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=young-anakin" alt="young-anakin" /></a> </p>
 
-- 🔭 I’m currently working on [MikesList](https://github.com/young-anakin/MikesList)
-
 - 🌱 I’m currently learning **Machine Learning, Three.JS**
 
-- 👯 I’m looking to collaborate on [Metsehaf Lewach](https://github.com/young-anakin/Metsehaf-Lewach)
+- 🔭 I’m currently working on [MikesList](https://github.com/young-anakin/MikesList), a reimagination of craigslist for Ethiopia/
 
-- 🤝 I’m looking for help with [BarberHub](https://github.com/young-anakin/BarberHub)
+- 👯 I’m looking to collaborate on [Metsehaf Lewach](https://github.com/young-anakin/Metsehaf-Lewach), a book trading platform where the currency is the papers of the book. 
+
+- 🤝 I’m looking for help with [BarberHub](https://github.com/young-anakin/BarberHub), a platform to look for barbers and barbershops that suit you.
 
 - 💬 Ask me about **React, Next, ASP.NET, Competitive Programming, Data Structures and Algorithms**
 
