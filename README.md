@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Three.JS**
 
-- 🔭 I’m currently working on [MikesList](https://github.com/young-anakin/MikesList), a reimagination of craigslist for Ethiopia/
+- 🔭 I’m currently working on [MikesList](https://github.com/young-anakin/MikesList), a reimagination of craigslist for Ethiopia.
 
 - 👯 I’m looking to collaborate on [Metsehaf Lewach](https://github.com/young-anakin/Metsehaf-Lewach), a book trading platform where the currency is the papers of the book. 
 
